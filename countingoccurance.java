@@ -1,3 +1,5 @@
+
+author Uttam Sharma;
 import java.util.Scanner;
 
 public class countingoccurance {
